@@ -2,6 +2,10 @@
 
 The zip file can be found under the release section of this repository.
 
+Detailed instructions for how to use the zip file contents can be here:
+
+https://rfsoc-hdlcoder.readthedocs.io
+
 ----------------------------------------------------------------------------
 
  This design and it's contents is the property of Avnet.  Publication of this
