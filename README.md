@@ -1,14 +1,14 @@
-# This repository contains a zip that is used to enable HDL Coder for the Xilinx RFSoC Gen 3 ZCU208
+# This repository contains a zip file that is used to enable HDL Coder for the Xilinx RFSoC Gen 3 ZCU208
 
 The zip file can be found under the release section of this repository.
 
-Detailed instructions for how to use the zip file contents can be here:
+Detailed instructions for how to use the zip file contents can be found here:
 
 https://rfsoc-hdlcoder.readthedocs.io
 
 ----------------------------------------------------------------------------
 
- This design and it's contents is the property of Avnet.  Publication of this
+ This design and it's contents are the property of Avnet.  Publication of this
  design is not authorized without written consent from Avnet.
 
  Disclaimer:
